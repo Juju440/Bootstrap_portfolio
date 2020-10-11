@@ -1,2 +1,2 @@
 # Bootstrap_portfolio
-Mettre Bootstrap dans son portfolio
+Créer l'interface de son portfolio avec Bootstrap
